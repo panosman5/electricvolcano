@@ -28,10 +28,7 @@ export default {
 </script>
 
 <style>
-body {
-  background-image: url("@/assets/images/taal.jpg");
-  background-size: cover;
-}
+
 #content {
    
   position: fixed;
