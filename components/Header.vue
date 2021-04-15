@@ -26,7 +26,6 @@
   width: 100%;
   z-index: 10000;
   padding-top: 0em;
-  background: transparent;
 }
 
 #header .container {

@@ -1,8 +1,11 @@
 <template>
+<div>
+  <img src="@/assets/images/etna.jpg" alt="" width="100%">
   <div id="content">
       <h1 style="text">ELECTRIC VOLCANO</h1>
       <a class="button"><NuxtLink to="/About">Learn More</NuxtLink></a>
   </div>
+</div>
 </template>
 
 <script>
@@ -12,10 +15,10 @@ export default {
 </script>
 
 <style>
-body {
+/* body {
   background-image: url("@/assets/images/etna.jpg");
   background-size: cover;
-}
+} */
 #content {
    
   position: fixed;
@@ -23,8 +26,6 @@ body {
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
-
-    
     text-align: center;
 }
 

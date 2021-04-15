@@ -14,6 +14,10 @@
           ><a href="https://react.space.noa.gr" target="_blank"
             ><img src="~/assets/images/institutions/react2.png" alt="" /></a
         ></span>
+        <span class="image left"
+          ><a href="https://react.space.noa.gr" target="_blank"
+            ><img src="~/assets/images/mariecurie.png" alt="" /></a
+        ></span>
       </div>
       <div class="ft-main-item">
         <ul class="ft-social-list">
@@ -82,7 +86,7 @@ body {
   padding: 1.25rem 1.875rem;
   display: flex;
   flex-wrap: wrap;
-  position: absolute;
+  position: static;
   bottom: 0px;
   width: 100%;
 }

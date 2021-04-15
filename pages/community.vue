@@ -16,7 +16,7 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-satellite"></span>
                                         <h3>Aeolus</h3>
-                                        <p>ESA's Wind Satellite Mission.</p><br>
+                                        <p style="color: black; font-size: 16px;">ESA's Wind Satellite Mission.</p><br>
                                         <a href="https://www.esa.int/Applications/Observing_the_Earth/Aeolus/" class="image fit"><img src='~assets/images/community/aeolus.png' alt="" /></a>
                                         <br><a href="https://www.esa.int/Applications/Observing_the_Earth/Aeolus/" class="button">Visit Aeolus</a>
                                     </section>
@@ -25,7 +25,7 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-globe"></span>
                                         <h3>ACTRIS</h3>
-                                        <p>The Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).</p>
+                                        <p style="color: black; font-size: 16px;">The Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).</p>
                                         <a href="https://www.actris.eu/" class="image fit"><img src='~assets/images/community/actris.png' alt="" /></a>
                                         <br><a href="https://www.actris.eu/" class="button">Visit ACTRIS</a>
                                     </section>
@@ -34,7 +34,7 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-satellite"></span>
                                         <h3>ASKOS</h3>
-                                        <p>Aeolus Cal/Val campaign.</p><br>
+                                        <p style="color: black; font-size: 16px;">Aeolus Cal/Val campaign.</p><br>
                                         <a href="https://askos.space.noa.gr" class="image fit"><img src='~assets/images/community/askos.png' alt="" /></a>
                                         <br><a href="https://askos.space.noa.gr" class="button">Visit ASKOS</a>
                                     </section>
@@ -47,7 +47,7 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-globe"></span>
                                         <h3>inDust</h3>
-                                        <p>The International Netwrok to Encourage the Use of Monitoring and Forecasting Dust Products (inDust) [COST Action CA16202]</p>
+                                        <p style="color: black; font-size: 16px;">The International Netwrok to Encourage the Use of Monitoring and Forecasting Dust Products (inDust) [COST Action CA16202]</p>
                                         <a href="https://cost-indust.eu/" class="image fit"><img src='~assets/images/community/indust.png' alt="" /></a>
                                         <br><a href="https://cost-indust.eu/" class="button">Visit inDust</a>
                                     </section>
@@ -56,7 +56,7 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-space-shuttle"></span>
                                         <h3>EARLINET</h3>
-                                        <p>The European Aerosol Research Lidar Network.</p><br>
+                                        <p style="color: black; font-size: 16px;">The European Aerosol Research Lidar Network.</p><br>
                                         <a href="https://www.earlinet.org/index.php?id=earlinet_homepage" class="image fit"><img src='~assets/images/community/earlinet.png' alt="" /></a>
                                         <br><br><a href="https://www.noa.gr/en/" target="_blank"><a href="https://www.earlinet.org/index.php?id=earlinet_homepage" class="button">Visit EARLINET</a></a>
                                     </section>
@@ -65,26 +65,14 @@
                                     <section class="feature">
                                         <span class="icon solid major fa-space-shuttle"></span>
                                         <h3>EO4SOCIETY</h3>
-                                        <p>EO Science for Society.</p><br><br>
+                                        <p style="color: black; font-size: 16px;">EO Science for Society.</p><br><br>
                                         <a href="https://eo4society.esa.int/" class="image fit"><img src='~assets/images/community/eo4society.png' alt="" /></a>
                                         <br><br><a href="https://eo4society.esa.int/" class="button">Visit EO4SOCIETY</a>
                                     </section>
                                 </div>
                             </div>
                         </div>
-                        <div class="box alt">
-                            <div class="row gtr-uniform gtr-200">
-                                <div class="col-4 col-6-large col-12-medium">
-                                    <section class="feature">
-                                        <span class="icon solid major fa-globe"></span>
-                                        <h3>VirES</h3>
-                                        <p>VirES for Swarm is a highly interactive data manipulation and retrieval interface for the ESA Swarm constellation mission products.</p>
-                                        <a href="https://aeolus.services/" class="image fit"><img src='~assets/images/community/vires.png' alt="" /></a>
-                                        <br><a href="https://aeolus.services/" class="button">Visit VirES</a>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>	
                 </section> 
             </div>   
@@ -98,4 +86,5 @@ export default {};
 </script>
 
 <style>
+
 </style>
